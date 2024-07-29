@@ -13,7 +13,7 @@
     </a>
   </p>
   
-  <p class="projectDesc">
+  <p class="projectDesc" data-exposition="A ride sharing Android app featuring QR-bucks, a contactless payment system using QR codes. Created as part of a class project with 5 other team members. This project focused on using Agile methodologies and collaborating with a team to design and release a fully functional app from scratch.">
     A ride sharing Android app featuring QR-bucks, a contactless payment system using QR codes. Created as part of a class project by Bardia, John, Mahin, Manpreet, Neel, and Payas.
   </p>
   
