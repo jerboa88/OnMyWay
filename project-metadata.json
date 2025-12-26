@@ -1,23 +1,31 @@
 {
-  "$schema": "https://johng.io/schema/project-metadata.json",
-  "name": "OnMyWay",
-  "background": "A ride sharing Android app featuring QR-bucks, a contactless payment system using QR codes. Created as part of a class project with 5 other team members. This project focused on using Agile methodologies and collaborating with a team to design and release a fully functional app from scratch.",
+	"$schema": "https://johng.io/schema/project-metadata.json",
+	"name": "OnMyWay",
+	"background": "Collaborated with a six-person team to build OnMyWay, an ride-hailing Android app for a course project. The app explored the full ride flow from rider requests to driver acceptance, with Firebase-backed account data, Google Maps route views, and a QR code based payment concept. The project emphasized Agile planning and featured iterative design artifacts, automated unit/instrumentation tests with JUnit + Robotium, and comprehensive documentation powered by Javadocs.",
 	"logoPath": "app/src/main/ic_launcher-web.png",
-	"category": "App",
-	"subcategory": "Android",
-  "technologies": [
-    "GCP", 
-    "Firebase"
-  ],
-	"tools" : [
-    "Android Studio"
+	"technologies": [
+		"Android",
+		"AndroidX",
+		"Firebase",
+		"Google Cloud Platform",
+		"Google Maps",
+		"Gradle",
+		"Java",
+		"JUnit",
+		"Robotium",
+		"ZXing"
+	],
+	"tools": [
+		"Android Studio"
 	],
 	"topics": [
-    "Agile"
+		"Agile"
 	],
-  "schema": {
-    "type": "Software",
-    "applicationCategory": "Travel",
-    "operatingSystem": "Android"
-  }
+	"category": "App",
+	"subcategory": "Android",
+	"schema": {
+		"type": "Software",
+		"applicationCategory": "Travel",
+		"operatingSystem": "Android"
+	}
 }
